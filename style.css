@@ -9,7 +9,7 @@ body {
 }
 
 /* Backgrounds for each page */
-body.home { background-image: url('images/home-bg.jpg'); }
+body.home { background-color: #333; }
 body.mcs { background-image: url('../images/mcs-bg.jpg'); }
 body.is { background-image: url('../images/is-bg.jpg'); }
 
